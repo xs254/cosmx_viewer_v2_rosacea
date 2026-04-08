@@ -1,0 +1,17 @@
+{
+  "dataset_name": "Rosacea_44419_1_9",
+  "n_cells": 3917,
+  "n_celltypes": 36,
+  "cell_types": ["Activated CD4 T", "Activated Endothelial", "Ag Activated CD8 CTL", "Arterial Endothelial", "ASDC", "Capillary Endothelial", "CD206+ DC", "cDC1", "cDC2", "CXCL13+ T", "Epithelial", "FRC-like Fb", "HF associated Fb", "IFN activated Fb", "LAMP3+ DC", "LC", "Low quality", "Lymphatic Endothelial", "M1-like Mac", "M2-like Mac", "Mast", "Melanocyte", "Naïve/TCM", "Nerve", "NK", "pDC", "Pericyte", "Reticular Fb", "Schwann cell", "Smooth muscle", "TCM", "Th17-like", "Treg", "TREM2+ Mac", "Venous Endothelial", "WIF1+ Papillary Fb"],
+  "n_genes": 500,
+  "has_polygons": true,
+  "has_proteins": false,
+  "n_proteins": 0,
+  "bounds": {
+    "x_min": 450,
+    "x_max": 12692,
+    "y_min": 42301,
+    "y_max": 54987
+  },
+  "celltype_col": "predicted.id.filtered.subtype"
+}
