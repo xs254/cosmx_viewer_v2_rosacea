@@ -3,7 +3,7 @@
   "n_cells": 3917,
   "n_celltypes": 42,
   "cell_types": ["Activated CD4 T", "Activated Endothelial", "Ag Activated CD8 CTL", "Arterial Endothelial", "ASDC", "Basal", "Capillary Endothelial", "CD206+ DC", "cDC1", "cDC2", "CXCL13+ T", "Eccrine", "FRC-like Fb", "Granular", "HF", "HF associated Fb", "IFN activated Fb", "iKC", "LAMP3+ DC", "LC", "Low quality", "Lymphatic Endothelial", "M1-like Mac", "M2-like Mac", "Mast", "Melanocyte", "Naïve/TCM", "Nerve", "NK", "pDC", "Pericyte", "Reticular Fb", "Schwann cell", "Sebocyte", "Smooth muscle", "Spinous", "TCM", "Th17-like", "Treg", "TREM2+ Mac", "Venous Endothelial", "WIF1+ Papillary Fb"],
-  "n_genes": 500,
+  "n_genes": 517,
   "has_polygons": true,
   "has_proteins": false,
   "n_proteins": 0,
